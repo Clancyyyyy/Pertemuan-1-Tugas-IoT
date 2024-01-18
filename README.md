@@ -1,4 +1,5 @@
-# Pertemuan-1-Tugas-IoT
+# Pertemuan-1-Tugas-IoT 
+# Muhammad Luthfi Jamal - 09021382227152
 Sejarah
 Pada awalnya IoT hanyalah sekedar konsep yang muncul pada tahun 1980-an, dan baru berjalan pada tahun 1999 dalam proyek Auto-ID di MIT yang pada awalnya bertujuan mengambangkan teknologi identifikasi otomatis, dan IoT mulai berkembang secara pesat pada tahun 2008 ke atas, teknologi yang telah berkambang IoT ini telah merambat ke sektor transportasi, industri, kesehatan dan masih banyak lagi yang hingga sekarang masih berkembang
 
