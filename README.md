@@ -20,6 +20,8 @@ Macam-macam kebutuhan IoT
 Contoh Implementasi
 Smart TV
 ![image](https://github.com/Clancyyyyy/Pertemuan-1-Tugas-IoT/assets/143854992/9be84f2d-a1bf-47d5-8d1c-04fc3dcaf805)
+Contoh ![image](https://github.com/Clancyyyyy/Pertemuan-1-Tugas-IoT/assets/143854992/dcdee5f3-2856-4a37-997c-0f60d8850ae9)
+
 
 Robot Vacum Cleaner
 ![image](https://github.com/Clancyyyyy/Pertemuan-1-Tugas-IoT/assets/143854992/3a7b0e6f-3d51-490b-b6ba-f0b917683a33)
